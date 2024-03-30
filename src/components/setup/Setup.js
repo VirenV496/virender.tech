@@ -3,8 +3,9 @@ import {Box, } from "@mui/material";
 
 export default function Setup() {
     return (
-        <Box>
-            <Box>Setup</Box>
+        <Box display={'flex'} flexDirection={{xs: 'column', md: 'row'}} alignItems={'center'}
+        justifyContent={'center'} minHeight={'calc(100vh - 175px)'}>
+            <Box>oops no data found ! </Box>
         </Box>
     );
 };
