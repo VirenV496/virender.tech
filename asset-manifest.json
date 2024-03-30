@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/virender.tech/static/css/main.d722554d.css",
-    "main.js": "/virender.tech/static/js/main.56069733.js",
+    "main.js": "/virender.tech/static/js/main.c5f86733.js",
     "static/media/mock5.png": "/virender.tech/static/media/mock5.c9b5f54e8517e13fc897.png",
     "static/media/mock2.png": "/virender.tech/static/media/mock2.e8ed2c07928dfdc15a79.png",
     "static/media/mock1.png": "/virender.tech/static/media/mock1.e11f6103909e8c52d703.png",
@@ -10,10 +10,10 @@
     "static/media/self.png": "/virender.tech/static/media/self.9b4b28f8dfa25e25fa6e.png",
     "index.html": "/virender.tech/index.html",
     "main.d722554d.css.map": "/virender.tech/static/css/main.d722554d.css.map",
-    "main.56069733.js.map": "/virender.tech/static/js/main.56069733.js.map"
+    "main.c5f86733.js.map": "/virender.tech/static/js/main.c5f86733.js.map"
   },
   "entrypoints": [
     "static/css/main.d722554d.css",
-    "static/js/main.56069733.js"
+    "static/js/main.c5f86733.js"
   ]
 }
