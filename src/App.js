@@ -6,7 +6,7 @@ import {BrowserRouter} from "react-router-dom";
 function App() {
    return (
       <div>
-         <BrowserRouter basename="/">
+         <BrowserRouter basename="/virender.tech">
             <BaseLayout/>
          </BrowserRouter>
       </div>
