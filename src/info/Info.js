@@ -78,7 +78,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Virender Vishwakarma . I'm a Software developer . I studied CompSci at Pratibha Institute of nusiness and management , I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: " My name is virender vishwakarma, I'm a Software Engineer based in  India, pune maharashtra,I have developed many types of front-ends Shipping, manufacturing, from well know applications to Ecommerce booking platforms.    I'm passionate about cutting-edge tech, pixel-perfect, beautiful  interfaces and intuitively implemented UX.",
     skills:
         {
             proficientWith: ['javascript', 'anguler', 'react', 'react-native','android studio, xcode ', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
